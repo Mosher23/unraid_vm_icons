@@ -8,7 +8,7 @@
   <Shell>sh</Shell>
   <Privileged>true</Privileged>
   <Support/>
-  <Project>https://github.com/SpaceinvaderOne/unraid_vm_icons</Project>
+  <Project>https://github.com/Mosher23/unraid_vm_icons</Project>
   <Overview>Downloads and installs additional custom VM icons to the Unraid VM Manager.&#xD;
 &#xD;
 After install Container should be set to auto start.&#xD;
@@ -32,7 +32,7 @@ Other options dont change&#xD;
 &#xD;
 </Overview>
   <Category>Tools:</Category>
-  <WebUI>https://github.com/SpaceinvaderOne/unraid_vm_icons</WebUI>
+  <WebUI>https://github.com/Mosher23/unraid_vm_icons</WebUI>
   <TemplateURL/>
   <Icon>https://raw.githubusercontent.com/SpaceinvaderOne/unraid_vm_icons/master/icons/Stock_Icons/default.png</Icon>
   <ExtraParams/>
